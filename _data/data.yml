@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Ferran Beltran
+    name: Ferran Beltran Sansano
     tagline: Programmer
     avatar: 
 
@@ -18,13 +18,13 @@ sidebar:
     timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
+    linkedin: ElFerri
+    xing: ElFerri
+    github: ElFerri
+    telegram: Ferran Beltran
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: '@ElFerri'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe

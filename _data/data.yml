@@ -8,13 +8,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Ferran Beltran
+    tagline: Programmer
+    avatar: 
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
+    email: ferbelsan2@alu.edu.gva.es
+    phone: 615 66 95 88
     timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
@@ -36,25 +36,19 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Football
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Games
           link:
 
 career-profile:

@@ -54,26 +54,17 @@ sidebar:
 career-profile:
     title: Higher Degree
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      During the years of study I did an internship at Llusar in computer science and I also worked in the summers as a monitor in summer schools.
 education:
     title: DAW
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Programmer
+        university: IES BENIGASLO
+        time: 2024-2026
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Degree in Web Application Development at IES BENIGASLO from 2024 to 2026, dealing with programming, markup language, use of GitHub and database storage.
+
+           
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
